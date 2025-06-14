@@ -7,12 +7,42 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://hippocampa.github.io/categories/</loc>
+    <lastmod>2025-06-15T00:23:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hippocampa.github.io/categories/computer-vision/</loc>
+    <lastmod>2025-06-15T00:23:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hippocampa.github.io/tags/computer-vision/</loc>
+    <lastmod>2025-06-15T00:23:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hippocampa.github.io/tags/contrastive-learning/</loc>
+    <lastmod>2025-06-15T00:23:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hippocampa.github.io/tags/deep-learning/</loc>
+    <lastmod>2025-06-15T00:23:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://hippocampa.github.io/</loc>
     <lastmod>2025-06-15T00:23:10+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://hippocampa.github.io/blog/practical-simclr-leveraging-unlabeled-data-through-contrastive-image-recognition/</loc>
+    <lastmod>2025-06-15T00:23:10+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://hippocampa.github.io/tags/</loc>
     <lastmod>2025-06-15T00:23:10+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,11 +67,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://hippocampa.github.io/tags/</loc>
-    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://hippocampa.github.io/posts/post-2/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -58,10 +83,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://hippocampa.github.io/about/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://hippocampa.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
